@@ -2,7 +2,7 @@ import { defineUserConfig } from "vuepress";
 import theme from "./theme.js";
 
 export default defineUserConfig({
-  base: "/CN-F1-Discord-bot-docs/",
+  base: "/",
 
   locales: {
     "/": {
