@@ -1,10 +1,10 @@
 ---
 home: true
 icon: home
-title: Project home
+title: Unofficial F1 Discord Bot
 heroImage: /logo.svg
-heroText: Project name
-tagline: You can place the description of the project here.
+heroText: Unofficial F1 Discord Bot
+tagline: Projeto final da unidade curricular de Computação na Nuvem
 actions:
   - text: How to Use 💡
     link: /demo/
