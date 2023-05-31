@@ -3,15 +3,15 @@ home: true
 icon: home
 title: Unofficial F1 Discord Bot
 heroImage: /logo.svg
-heroText: Unofficial F1 Discord Bot
+heroText: F1 Discord Bot
 tagline: Projeto final da unidade curricular de Computação na Nuvem
 actions:
-  - text: How to Use 💡
-    link: /demo/
+  - text: Relatório
+    link: /relatorio/
     type: primary
 
-  - text: Docs
-    link: /guide/
+  - text: Github
+    link: 'https://github.com/dmvicent3/CN-F1-Discord-bot'
 
 features:
   - title: Markdown Enhance

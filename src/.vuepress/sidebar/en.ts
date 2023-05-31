@@ -5,17 +5,10 @@ export const enSidebar = sidebar({
     "",
     {
       icon: "discover",
-      text: "Demo",
-      prefix: "demo/",
-      link: "demo/",
+      text: "Relatório",
+      prefix: "relatorio/",
+      link: "relatorio/",
       children: "structure",
-    },
-    {
-      text: "Docs",
-      icon: "note",
-      prefix: "guide/",
-      children: "structure",
-    },
-    "slides",
+    }
   ],
 });
